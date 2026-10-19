@@ -1,0 +1,7 @@
+﻿teks,url,tipe
+Scrape This Site,https://www.scrapethissite.com,internal
+Sandbox,https://www.scrapethissite.com/pages,internal
+Lessons,https://www.scrapethissite.com/lessons,internal
+FAQ,https://www.scrapethissite.com/faq,internal
+Login,https://www.scrapethissite.com/login,internal
+http://peric.github.io/GetCountries/,http://peric.github.io/GetCountries,eksternal
